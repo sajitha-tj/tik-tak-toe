@@ -6,4 +6,9 @@ to initialize and,
 
 npm run start
 
-to run the app
+to run the app.
+
+frfrjrfrkkssff
+dvv
+xvrr
+vv
