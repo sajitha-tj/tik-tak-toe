@@ -7,3 +7,7 @@ to initialize and,
 npm run start
 
 to run the app
+
+test
+local update
+fff
