@@ -82,7 +82,7 @@ const Game = () => {
 
     function calculateWinner(squares) {
 
-        if(history.length == 1 ){
+        if(history.length === 1 ){
             return null;
         }
 

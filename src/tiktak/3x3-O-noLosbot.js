@@ -3,7 +3,7 @@ const noLosBot3x3O = (squares, history) => {
     const botSquares = squares.slice();
     var moveMade = false;
 
-    if(history.length == 1 ){
+    if(history.length === 1 ){
         playFor1stMove(botSquares);
 
     }else{
