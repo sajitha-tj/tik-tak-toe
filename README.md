@@ -1,9 +1,9 @@
 To run this app download the files and in the project folder use,
 
-#  npm init
+npm init
 
 to initialize and,
 
-#  npm run start
+npm run start
 
 to run the app
