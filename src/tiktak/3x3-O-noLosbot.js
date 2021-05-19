@@ -97,4 +97,4 @@ const noLosBot3x3O = (squares, history) => {
     return botSquares;
 }
 
-module.exports = noLosBot3x3O;
+export default noLosBot3x3O;

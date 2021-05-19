@@ -1,6 +1,7 @@
 import Board from "./board";
 import { useState } from 'react';
-const noLosBot3x3O = require('./3x3-O-noLosbot');
+import noLosBot3x3O from './3x3-O-noLosbot' ;
+// const noLosBot3x3O = require('./3x3-O-noLosbot');
 
 
 const Game = () => {
